@@ -1,0 +1,54 @@
+.form-inline {
+  display: flex;
+  margin-left: 25%;
+  float: right;
+}
+
+.man-svg {
+  height: 40px;
+  width: 40px;
+  margin-right: 5%;
+}
+
+.cart-svg {
+  height: 25px;
+  width: 25px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.gallery-svg {
+  margin-left: 35%;
+  height: 45px;
+  width: 45px;
+
+}
+
+.user {
+  justify-content: center;
+  text-align: center;
+}
+
+.first-container {
+  background: #F3F2F2;
+  height: 854px;
+  width: 1380px;
+  margin-inline: auto;
+  margin-top: 100px;
+  border-radius: 100px;
+}
+
+.text-first {
+  font-family: 'Azeret Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 128px;
+  line-height: 149px;
+
+  height: 447px;
+  width: 500px;
+  margin-left: 204px;
+
+  border-radius: 0px;
+
+}
