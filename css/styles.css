@@ -1,3 +1,5 @@
+/************* NAVBAR ************/
+
 .form-inline {
   display: flex;
   margin-left: 25%;
@@ -28,6 +30,8 @@
   justify-content: center;
   text-align: center;
 }
+
+/************* FIRST CONTAINER ************/
 
 .first-container {
   background: #F3F2F2;
@@ -80,6 +84,8 @@
   height: fit-content;
 }
 
+/************* SECOND CONTAINER ************/
+
 .second-container {
   background: #F3F2F2;
   height: 998px;
@@ -129,6 +135,8 @@
   justify-content: center;
   display: flex;
 }
+
+/************* THIRD CONTAINER ************/
 
 .third-container {
   background: #F3F2F2;
@@ -187,6 +195,8 @@
   margin-top: 50px;
 }
 
+/************* FOURTH CONTAINER ************/
+
 .fourth-container {
   background: #F3F2F2;
   height: 998px;
@@ -223,14 +233,17 @@
   margin-right: 70px;
 }
 
+/************* FIFTH CONTAINER ************/
+
 .fifth-container {
   background: #F3F2F2;
   height: 998px;
   margin-top: 300px;
+}
+
+.info-wrapper {
   display: flex;
   justify-content: space-between;
-
-
 }
 
 .fifth-img {
@@ -241,10 +254,60 @@
   margin-top: 50px;
 }
 
+.quick-nav-h2 {
+  margin-bottom: 50px;
+}
+
 .knowledge-base {
   margin-top: 50px;
 }
 
+.knowledge-base-h2 {
+  margin-bottom: 50px;
+}
+
 .information {
   margin-top: 50px;
+}
+
+.information-h2 {
+  margin-bottom: 88px;
+}
+
+.your-email-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.your-email {
+  background: #E0E0E0;
+  font-family: 'Azeret Mono';
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42px;
+  height: 130px;
+  width: 718px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.your-email-p {
+  font-family: 'Azeret Mono';
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 18px;
+}
+
+.email-hr {
+  border: 4px;
+  color: black;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
