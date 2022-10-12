@@ -1,1 +1,1 @@
-# praksa-clone 
+# Furniture Shop landing page 
