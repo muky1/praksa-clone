@@ -258,7 +258,7 @@
 
 .fifth-container {
   background: #F3F2F2;
-  height: 998px;
+  height: 850px;
   margin-top: 300px;
 }
 
@@ -331,4 +331,14 @@
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.copyright {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 0;
+  margin-top: 180px;
+  height: fit-content;
+  width: fit-content;
 }
