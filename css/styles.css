@@ -9,8 +9,7 @@
 .cart-svg {
   height: 30px;
   width: 30px;
-  margin-left: 3%;
-  margin-right: 3%;
+  margin-right: 6%;
 }
 
 .logo-small-div {
@@ -24,7 +23,17 @@
 .user {
   justify-content: center;
   text-align: center;
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+  margin-right: 25px;
 }
+
+.home {
+  margin-left: 20px;
+}
+
+
 
 /************* FIRST CONTAINER ************/
 
@@ -204,7 +213,7 @@
 .arrow {
   background-color: white;
   border-radius: 40px;
-
+  margin-left: 10px;
 }
 
 /************* FOURTH CONTAINER ************/
