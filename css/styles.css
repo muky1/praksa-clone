@@ -1,3 +1,8 @@
+body {
+  font-family: 'Azeret Mono';
+}
+
+
 /************* NAVBAR ************/
 
 .form-inline {
@@ -66,14 +71,12 @@
   border-radius: 30px;
   background: black;
   color: white;
-  font-family: 'Azeret Mono';
   font-size: 36px;
   font-weight: 700;
   line-height: 42px;
 }
 
 .text-first {
-  font-family: 'Azeret Mono';
   font-style: normal;
   font-weight: 700;
   font-size: 128px;
@@ -98,7 +101,6 @@
 }
 
 .first-h1 {
-  font-family: 'Azeret Mono';
   font-size: 128px;
   font-weight: 700;
   line-height: 149px;
@@ -107,7 +109,6 @@
 }
 
 .second-description {
-  font-family: 'Azeret Mono';
   font-size: 20px;
   font-weight: 400;
   line-height: 42px;
@@ -124,7 +125,6 @@
   color: white;
   display: flex;
   align-items: center;
-  font-family: 'Azeret Mono';
   font-size: 36px;
   font-weight: 700;
   line-height: 42px;
@@ -156,7 +156,6 @@
   justify-content: center;
   align-items: center;
   margin: 5% auto 5% auto;
-  font-family: 'Azeret Mono';
   font-size: 36px;
   font-weight: 700;
   line-height: 42px;
@@ -226,7 +225,6 @@
 }
 
 .heading-text {
-  font-family: 'Azeret Mono';
   font-size: 124px;
   font-weight: 700;
   line-height: 145px;
@@ -244,7 +242,6 @@
 }
 
 .text-fourth {
-  font-family: 'Azeret Mono';
   font-size: 20px;
   font-weight: 400;
   line-height: 23px;
@@ -303,7 +300,6 @@
 
 .your-email {
   background: #E0E0E0;
-  font-family: 'Azeret Mono';
   font-size: 36px;
   font-weight: 700;
   line-height: 42px;
@@ -315,7 +311,6 @@
 }
 
 .your-email-p {
-  font-family: 'Azeret Mono';
   font-size: 15px;
   font-weight: 300;
   line-height: 18px;
