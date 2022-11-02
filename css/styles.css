@@ -11,7 +11,7 @@ body {
 .form-inline {
   display: flex;
   margin-left: auto;
-  margin-right: 30px;
+  margin-right: 40px;
 }
 
 .cart-svg {
@@ -47,7 +47,7 @@ body {
 }
 
 .home-href {
-  margin-left: 30px;
+  margin-left: 60px;
   margin-right: 50px;
 }
 
@@ -67,7 +67,19 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-right: 50px;
+  margin-right: 60px;
+}
+
+.form-control::placeholder {
+  padding-left: 30px;
+}
+
+.search-button {
+  position: relative;
+  background: transparent;
+  border: none;
+  outline: focus;
+  margin-right: -40px;
 }
 
 /************* FIRST CONTAINER ************/
